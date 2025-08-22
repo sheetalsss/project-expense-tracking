@@ -1,0 +1,299 @@
+2025-08-19 18:33:59,494 - db_helper - INFO - Fetching expense for date: 2024-08-02
+2025-08-19 18:36:09,765 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 19:57:53,216 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 19:58:11,636 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:23:31,522 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:27:57,667 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:28:45,635 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:33:23,344 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:34:00,669 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:34:42,970 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:35:30,717 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:35:36,500 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 20:36:44,072 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 20:37:12,608 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 20:38:17,242 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 20:39:24,514 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 20:39:39,345 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:40:02,519 - db_helper - INFO - Fetching expense for date: 2024-08-15
+2025-08-19 20:40:09,832 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 20:50:06,862 - db_helper - INFO - Fetching expense for date: 2024-08-22
+2025-08-19 20:50:24,549 - db_helper - INFO - Fetching expense for date: 2024-08-22
+2025-08-19 20:50:24,573 - db_helper - INFO - Deleting expenses for date: 2024-08-22
+2025-08-19 22:47:18,533 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-19 22:50:48,226 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 08:38:23,803 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:47:55,977 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:51:07,524 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:53:48,184 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:56:22,594 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:56:25,386 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:57:23,401 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:57:24,953 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:57:56,304 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:57:59,037 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:59:07,489 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:59:12,120 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:59:14,750 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:59:19,726 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:59:21,244 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:59:51,170 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 08:59:53,482 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:00:06,050 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:00:07,361 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:01:07,836 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:01:10,172 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:01:10,189 - db_helper - INFO - Fetching expense summary for date: 2020-08-01, 2020-08-05
+2025-08-20 09:01:11,919 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:01:11,941 - db_helper - INFO - Fetching expense summary for date: 2020-08-01, 2020-08-05
+2025-08-20 09:01:16,236 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:01:19,195 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:01:20,286 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:01:20,308 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 09:06:47,640 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:06:49,815 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:06:49,831 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 09:07:03,657 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:07:05,652 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:07:05,675 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 09:10:34,710 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:10:35,955 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:10:35,979 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 09:11:05,092 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:11:06,524 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:11:06,550 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 09:11:17,893 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:11:19,642 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 09:11:19,664 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 10:16:55,399 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:36:42,813 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:36:42,844 - db_helper - INFO - Fetching all expenses
+2025-08-20 10:42:03,871 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:42:06,638 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:42:06,662 - db_helper - INFO - Fetching expense summary for date: 2020-08-01, 2020-08-01
+2025-08-20 10:42:12,037 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:42:13,682 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:42:13,708 - db_helper - INFO - Fetching expense summary for date: 2020-08-01, 2020-08-05
+2025-08-20 10:42:25,708 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:42:41,848 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:42:54,190 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 10:42:54,212 - db_helper - INFO - Fetching expense summary for date: 2020-08-01, 2024-08-05
+2025-08-20 10:43:43,422 - db_helper - INFO - Fetching all expenses
+2025-08-20 10:59:51,971 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:00:12,413 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:00:12,437 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:02:32,254 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:02:32,280 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:06:34,925 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:06:34,949 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:07:26,538 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:07:26,559 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:11:52,309 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:11:52,333 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:12:37,251 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:12:37,272 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:13:29,485 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:13:29,508 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:15:20,774 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:15:20,798 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:15:56,361 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:15:56,383 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:17:19,261 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:17:19,275 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:17:35,134 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:17:35,154 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:17:42,280 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:17:42,309 - db_helper - INFO - Fetching all expenses
+2025-08-20 11:17:43,505 - db_helper - INFO - Fetching expense for date: 2024-08-01
+2025-08-20 11:17:43,530 - db_helper - INFO - Fetching expense summary for date: 2024-08-01, 2024-08-05
+2025-08-20 11:17:43,553 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:04:49,557 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:04:59,123 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:05:03,155 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:05:12,124 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:05:12,190 - db_helper - INFO - Creating user: user2
+2025-08-21 10:05:18,903 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:05:18,997 - db_helper - INFO - Creating user: user3
+2025-08-21 10:05:43,654 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:05:47,203 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:05:58,972 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:05:59,038 - db_helper - INFO - Verifying user: user1
+2025-08-21 10:06:44,636 - db_helper - INFO - Fetching all expenses
+2025-08-21 10:12:56,130 - db_helper - INFO - Verifying user: user1
+2025-08-21 10:13:06,187 - db_helper - INFO - Creating user: user2
+2025-08-21 10:22:46,234 - db_helper - INFO - Verifying user: user1
+2025-08-21 10:22:57,014 - db_helper - INFO - Verifying user: user1
+2025-08-21 10:22:57,704 - db_helper - INFO - Verifying user: user1
+2025-08-21 10:23:43,239 - db_helper - INFO - Verifying user: user1
+2025-08-21 10:57:20,573 - db_helper - INFO - Creating user: user_09
+2025-08-21 10:58:15,880 - db_helper - INFO - Verifying user: unknown_user
+2025-08-21 10:58:17,211 - db_helper - INFO - Verifying user: unknown_user
+2025-08-21 11:41:02,146 - db_helper - INFO - Creating user: user02
+2025-08-21 11:41:03,067 - db_helper - INFO - Creating user: user02
+2025-08-21 11:41:03,282 - db_helper - INFO - Creating user: user02
+2025-08-21 11:41:03,465 - db_helper - INFO - Creating user: user02
+2025-08-21 11:41:04,630 - db_helper - INFO - Creating user: user02
+2025-08-21 11:41:49,928 - db_helper - INFO - Creating user: user02
+2025-08-21 11:42:20,005 - db_helper - INFO - Verifying user: user02
+2025-08-21 11:44:11,076 - db_helper - INFO - Fetching all expenses
+2025-08-21 11:44:52,955 - db_helper - INFO - Verifying user: user02
+2025-08-21 11:44:54,328 - db_helper - INFO - Verifying user: user02
+2025-08-21 11:45:08,224 - db_helper - INFO - Verifying user: user02
+2025-08-21 11:50:09,844 - db_helper - INFO - Verifying user: user02
+2025-08-21 11:50:10,102 - db_helper - INFO - Fetching all expenses
+2025-08-21 11:50:31,412 - db_helper - INFO - Fetching all expenses
+2025-08-21 11:50:39,791 - db_helper - INFO - Fetching all expenses
+2025-08-21 11:50:40,907 - db_helper - INFO - Fetching all expenses
+2025-08-21 11:58:32,981 - db_helper - INFO - Verifying user: user02
+2025-08-21 12:01:27,558 - db_helper - INFO - Verifying user: user02
+2025-08-21 12:09:22,525 - db_helper - INFO - Verifying user: user02
+2025-08-21 12:09:22,821 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:09:35,957 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-21
+2025-08-21 12:09:36,038 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:09:51,894 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-21
+2025-08-21 12:09:52,007 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:10:19,488 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:10:25,770 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:11:02,045 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-24
+2025-08-21 12:11:02,159 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:03,739 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-24
+2025-08-21 12:12:03,832 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:11,689 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-24
+2025-08-21 12:12:11,785 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:22,102 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:23,241 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-21
+2025-08-21 12:12:23,346 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:33,739 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:36,794 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:55,520 - db_helper - INFO - Verifying user: user02
+2025-08-21 12:12:55,814 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:12:59,483 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:13:02,722 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:13:13,969 - db_helper - INFO - Verifying user: user02
+2025-08-21 12:13:14,256 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:13:18,093 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:13:20,591 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-21
+2025-08-21 12:13:20,690 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:13:26,848 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:13:30,805 - db_helper - INFO - Deleting expenses for user 3 on date: 2025-08-21
+2025-08-21 12:13:30,898 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:13:36,577 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:14:08,974 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 12:14:55,078 - db_helper - INFO - Creating user: user03
+2025-08-21 12:15:03,973 - db_helper - INFO - Verifying user: user03
+2025-08-21 12:15:04,263 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:15:14,071 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:16:28,892 - db_helper - INFO - Deleting expenses for user 4 on date: 2025-08-21
+2025-08-21 12:16:29,038 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:16:36,717 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:16:42,606 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:16:44,683 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:25:34,554 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:25:36,729 - db_helper - INFO - Deleting expenses for user 4 on date: 2025-08-01
+2025-08-21 12:25:36,804 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:26:23,686 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:26:41,893 - db_helper - INFO - Deleting expenses for user 4 on date: 2025-08-22
+2025-08-21 12:26:41,984 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:26:46,434 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:26:48,623 - db_helper - INFO - Deleting expenses for user 4 on date: 2025-08-22
+2025-08-21 12:26:48,719 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:27:08,558 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:27:33,191 - db_helper - INFO - Deleting expenses for user 4 on date: 2025-09-03
+2025-08-21 12:27:33,295 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:27:37,520 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:28:30,586 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:28:42,157 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:34:36,954 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:34:40,968 - db_helper - INFO - Fetching expense summary for user 4 from 2025-08-01 to 2025-08-21
+2025-08-21 12:34:40,986 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:53:06,487 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:56:43,584 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:57:26,171 - db_helper - INFO - Verifying user: user03
+2025-08-21 12:57:26,485 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:57:38,750 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 12:58:44,706 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:05:24,115 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:06:15,822 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:06:40,092 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:07:03,501 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:12:32,465 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:12:58,771 - db_helper - INFO - Verifying user: user02
+2025-08-21 13:12:59,074 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 13:17:44,998 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 13:18:22,908 - db_helper - INFO - Fetching expense summary for user 3 from 2025-08-01 to 2025-08-21
+2025-08-21 13:18:22,927 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 13:25:13,340 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 13:26:20,114 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 13:30:38,347 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 13:33:09,280 - db_helper - INFO - Fetching monthly expenses for user 3
+2025-08-21 13:33:55,164 - db_helper - INFO - Verifying user: user03
+2025-08-21 13:33:55,487 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:39:42,200 - db_helper - INFO - Fetching monthly expenses for user 4
+2025-08-21 13:40:54,375 - db_helper - INFO - Creating user: Shreya Naik
+2025-08-21 13:41:03,326 - db_helper - INFO - Verifying user: Shreya Naik
+2025-08-21 13:41:03,628 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:01:32,295 - db_helper - INFO - Verifying user: Shreya Naik
+2025-08-21 19:01:32,570 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:02:22,435 - db_helper - INFO - Deleting expenses for user 5 on date: 2025-08-21
+2025-08-21 19:02:22,534 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:02:37,956 - db_helper - INFO - Fetching expense summary for user 5 from 2025-08-01 to 2025-08-21
+2025-08-21 19:02:38,478 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:05:12,726 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:05:55,712 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:06:40,967 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:07:10,661 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:07:22,910 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:08:05,043 - db_helper - INFO - Deleting expenses for user 5 on date: 2025-08-18
+2025-08-21 19:08:05,185 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:08:15,017 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:08:16,456 - db_helper - INFO - Fetching expense summary for user 5 from 2025-08-18 to 2025-08-21
+2025-08-21 19:08:16,477 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:09:21,040 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:10:09,725 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:11:19,514 - db_helper - INFO - Deleting expenses for user 5 on date: 2025-07-10
+2025-08-21 19:11:19,663 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:11:29,581 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:12:08,986 - db_helper - INFO - Deleting expenses for user 5 on date: 2025-07-23
+2025-08-21 19:12:09,117 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:12:15,234 - db_helper - INFO - Deleting expenses for user 5 on date: 2025-07-23
+2025-08-21 19:12:15,365 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:12:27,966 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:13:08,914 - db_helper - INFO - Deleting expenses for user 5 on date: 2025-06-01
+2025-08-21 19:13:09,056 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:13:18,066 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:13:23,592 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:13:25,272 - db_helper - INFO - Fetching expense summary for user 5 from 2025-06-01 to 2025-08-22
+2025-08-21 19:13:25,292 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:15:34,358 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 19:15:37,171 - db_helper - INFO - Fetching expense summary for user 5 from 2025-06-01 to 2025-08-22
+2025-08-21 19:15:37,190 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-08-21 20:08:26,376 - db_helper - INFO - Creating user: Sheetal24
+2025-08-21 20:08:32,492 - db_helper - INFO - Verifying user: Sheetal24
+2025-08-21 20:08:32,794 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-21 20:08:38,007 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-21 20:09:03,541 - db_helper - INFO - Deleting expenses for user 6 on date: 2025-08-21
+2025-08-21 20:09:03,672 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:41:40,163 - db_helper - INFO - Verifying user: Sheetal24
+2025-08-22 07:41:45,536 - db_helper - INFO - Verifying user: Sheetal24
+2025-08-22 07:41:45,832 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:43:05,343 - db_helper - INFO - Deleting expenses for user 6 on date: 2025-08-22
+2025-08-22 07:43:05,474 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:43:52,431 - db_helper - INFO - Fetching expense summary for user 6 from 2025-08-01 to 2025-08-22
+2025-08-22 07:43:52,450 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:44:24,321 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:44:50,426 - db_helper - INFO - Deleting expenses for user 6 on date: 2025-07-08
+2025-08-22 07:44:50,542 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:44:57,992 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:45:26,380 - db_helper - INFO - Deleting expenses for user 6 on date: 2025-07-18
+2025-08-22 07:45:26,520 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:45:31,980 - db_helper - INFO - Fetching expense summary for user 6 from 2025-08-01 to 2025-08-22
+2025-08-22 07:45:31,997 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:45:55,272 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:46:17,028 - db_helper - INFO - Deleting expenses for user 6 on date: 2025-06-11
+2025-08-22 07:46:17,154 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:46:29,594 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:46:55,309 - db_helper - INFO - Deleting expenses for user 6 on date: 2025-05-24
+2025-08-22 07:46:55,435 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:47:02,463 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-22 07:47:04,033 - db_helper - INFO - Fetching expense summary for user 6 from 2025-05-01 to 2025-08-22
+2025-08-22 07:47:04,057 - db_helper - INFO - Fetching monthly expenses for user 6
