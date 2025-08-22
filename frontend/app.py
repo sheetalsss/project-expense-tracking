@@ -220,7 +220,7 @@ else:
         # ... (previous code remains the same)
 
         # Today's expenses section
-        st.subheader("📋 Today's Expenses")
+        st.subheader("📋Today's Expenses")
         expense_date = st.date_input("Select Date", value=datetime.now().date(), key="date_selector")
 
         try:
