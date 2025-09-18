@@ -297,3 +297,15 @@
 2025-08-22 07:47:02,463 - db_helper - INFO - Fetching monthly expenses for user 6
 2025-08-22 07:47:04,033 - db_helper - INFO - Fetching expense summary for user 6 from 2025-05-01 to 2025-08-22
 2025-08-22 07:47:04,057 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-24 21:52:49,382 - db_helper - INFO - Verifying user: Sheetal24
+2025-08-24 21:52:49,740 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-08-24 21:53:35,976 - db_helper - INFO - Creating user: Sulaiman17
+2025-08-24 21:53:41,168 - db_helper - INFO - Verifying user: Sulaiman17
+2025-08-24 21:53:41,456 - db_helper - INFO - Fetching monthly expenses for user 7
+2025-08-24 21:54:03,181 - db_helper - INFO - Verifying user: Sheetal24
+2025-08-24 21:54:03,474 - db_helper - INFO - Fetching monthly expenses for user 6
+2025-09-18 11:03:42,633 - db_helper - INFO - Verifying user: Shreya Naik
+2025-09-18 11:03:42,873 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-09-18 11:04:00,791 - db_helper - INFO - Fetching monthly expenses for user 5
+2025-09-18 11:04:05,457 - db_helper - INFO - Deleting expenses for user 5 on date: 2025-08-22
+2025-09-18 11:04:05,512 - db_helper - INFO - Fetching monthly expenses for user 5
