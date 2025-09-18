@@ -8,6 +8,9 @@ A full-stack expense tracking application with advanced analytics capabilities, 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+### Demo
+https://project-expense-tracking.streamlit.app
+
 ## 🎯 Features
 
 ### 🔐 Authentication
